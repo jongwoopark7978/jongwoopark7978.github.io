@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "coffee_snow.png"
+  avatar           : "coffee_snow.jpg"
   name             : "Jongwoo Park"
   bio              : "Enjoying the journey of an AI researcher."
   location         : "Stony Brook, NY, USA"
