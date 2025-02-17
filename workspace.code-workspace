@@ -1,0 +1,88 @@
+{
+	"folders": [
+		{
+			"path": "../Video-ChatGPT"
+		},
+		{
+			"path": "../llava"
+		},
+		{
+			"path": "../fastchat_wj/FastChat"
+		},
+		{
+			"path": "../mvit"
+		},
+		{
+			"path": "../cvnet"
+		},
+		{
+			"path": "../old_llava"
+		},
+		{
+			"path": "../coding"
+		},
+		{
+			"path": "/nfs/bigquery/add_disk0/mryoo/wj"
+		},
+		{
+			"path": "../cvnet_share"
+		},
+		{
+			"path": "../llava_16"
+		},
+		{
+			"path": "../anaconda3/envs/llava/lib/python3.10/site-packages/transformers"
+		},
+		{
+			"path": "../GraftTransformer_shared"
+		},
+		{
+			"path": "../clippy"
+		},
+		{
+			"path": "../FastChat"
+		},
+		{
+			"path": "../fastchat_wj"
+		},
+		{
+			"path": "../../../nfs/bigtensor/add_disk0/mryoo/egoschema"
+		},
+		{
+			"path": "../RobotINT"
+		},
+		{
+			"path": "../../../nfs/bigtensor"
+		},
+		{
+			"path": "../LVNet"
+		},
+		{
+			"path": "../LVNet_dev"
+		},
+		{
+			"path": "../../kanchana/repo/scratch"
+		},
+		{
+			"path": "../arxiv"
+		},
+		{
+			"path": "../misc"
+		},
+		{
+			"path": "../llara"
+		},
+		{
+			"path": "../videomme"
+		},
+		{
+			"path": "../VideoAgent"
+		},
+		{
+			"path": "../TraveLER"
+		},
+		{
+			"path": "."
+		}
+	]
+}
