@@ -19,7 +19,7 @@ url                      : https://jongwoopark7978.github.io # the base hostname
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cocktail.jpg"
+  avatar           : "sideface_nococktail.jpg"
   name             : "Jongwoo Park"
   bio              : "Enjoying the journey of an AI researcher."
   location         : "Stony Brook, NY, USA"
