@@ -97,8 +97,8 @@
 
     @include breakpoint($large) {
       // max-width: 500px;
-      width: 500px !important;
-      max-width: 800px;
+      width: 400px !important;
+      max-width: 400px;
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
